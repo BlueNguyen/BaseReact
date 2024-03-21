@@ -1,0 +1,12 @@
+CÁC BƯỚC LÀM DỰ ÁN
+1. Khởi tạo dự án, Cấu trúc thư mục dự án
+2. Đọc đặc tả dự án => xác định layout, các thành phần lặp đi lặp lại trên web 
+                    => xác định xem nên đóng gói những component ntn, cần xài bao nhiêu trang
+3. Xây layout tĩnh
+4. Bắt đầu dựng chức năng (nên research những người đã làm rồi, tham khảo và chế biến lại cho phù hợp, nên sd thư viện)
+
+
+thư mục assets chứa hình ảnh, âm thanh, các file amination chúng ta sử dụng
+thư mục services chứa những phần xử lí gọi API lấy Dữ liệu
+thư mục utils chứa phần code sử dụng trong nhiều dự án
+thư mục template chứa phần giao diện chung (header, footer) dùng chung cho các trang
